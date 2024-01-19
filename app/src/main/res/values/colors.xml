@@ -10,5 +10,10 @@
 
 
 
-    <color name= "background">#0C0832</color>
+    <color name= "background">#191B1F</color>
+    <color name="btn_background_top">#191B1F</color>
+    <color name="ac_text">#FEDAFA</color>
+    <color name="text_result">#D0E2FB</color>
+    <color name="text_math">#D5E1F6</color>
+    <color name="text_number">#D1DDF2</color>
 </resources>
