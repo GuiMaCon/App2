@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/background"
-    tools:context=".Main">
+    tools:context=".MainActivity">
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -26,7 +26,7 @@
                 android:id="@+id/tvOperations"
                 android:layout_width="393dp"
                 android:layout_height="140dp"
-                android:gravity="center||right"
+                android:gravity="end"
                 android:textSize="65dp"
                 tools:text="6" />
 
@@ -36,7 +36,7 @@
                 android:layout_height="140dp"
                 android:layout_marginTop="15dp"
                 android:layout_marginRight="8dp"
-                android:gravity="bottom||right"
+                android:gravity="end"
                 android:textSize="35dp"
                 tools:text="6" />
         </androidx.cardview.widget.CardView>
